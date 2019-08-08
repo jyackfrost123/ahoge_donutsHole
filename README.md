@@ -8,8 +8,11 @@
 
 ## 開発環境
 ・Windows10
+
 ・Unity 2019.3.0a4
+
 ・VSCode 1.36.1(C#)
+
 ・SourceTree 3.1.2
 ## URL
 (イベントサイトURL)
